@@ -1,4 +1,4 @@
-üz Tanıma Sistemi 
+yüz Tanıma Sistemi 
 
 Bu proje, Python ve OpenCV kullanarak gerçek zamanlı yüz tanıma sistemi geliştirmek amacıyla hazırlanmıştır. 
 
