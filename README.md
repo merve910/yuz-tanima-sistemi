@@ -1,6 +1,9 @@
 yüz Tanıma Sistemi 
 
-Bu proje, Python ve OpenCV kullanarak gerçek zamanlı yüz tanıma sistemi geliştirmek amacıyla hazırlanmıştır. 
+Bu proje **PyCharm** ortamında geliştirilmiştir.  
+IDE: PyCharm  
+Dil: Python  
+Kütüphaneler: OpenCV, face_recognition, numpy
 
  Özellikler
 
